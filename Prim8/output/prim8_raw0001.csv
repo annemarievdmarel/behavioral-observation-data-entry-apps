@@ -1,0 +1,43 @@
+individualsid,Year,Month,Day,Time,durationoffocal,wascanceled,focalfollows_id
+1,2021,1,24,16:30:25,600,0,2
+scans_id,Year,Month,Day,Time,durationofscan
+8,2021,1,24,16:28:36,30
+9,2021,1,24,16:30:56,30
+10,2021,1,24,16:31:26,30
+11,2021,1,24,16:31:56,30
+12,2021,1,24,16:32:26,30
+13,2021,1,24,16:32:56,30
+14,2021,1,24,16:33:26,30
+15,2021,1,24,16:33:56,30
+16,2021,1,24,16:34:26,30
+17,2021,1,24,16:34:56,30
+18,2021,1,24,16:35:26,30
+19,2021,1,24,16:35:56,30
+20,2021,1,24,16:36:26,30
+21,2021,1,24,16:36:56,30
+22,2021,1,24,16:37:26,30
+23,2021,1,24,16:37:56,30
+24,2021,1,24,16:38:26,30
+25,2021,1,24,16:38:57,30
+26,2021,1,24,16:39:27,30
+27,2021,1,24,16:39:57,30
+activename,behaviorname,passivename,modifier,Year,Month,Day,Time,duration,behaviortypesid
+sorrel filly,alert,,,2021,1,24,16:30:58,0,2
+sorrel filly,eating,,,2021,1,24,16:31:28,0,2
+sorrel filly,locomotion,,,2021,1,24,16:31:58,0,2
+sorrel filly,laying down,,,2021,1,24,16:32:28,0,2
+sorrel filly,affiliative,brown horse,,2021,1,24,16:33:01,0,1
+sorrel filly,affiliative,blonde horse,,2021,1,24,16:33:34,0,1
+blonde horse,affiliative,sorrel filly,,2021,1,24,16:34:02,0,1
+sorrel filly,alert,,,2021,1,24,16:34:29,0,2
+sorrel filly,eating,,,2021,1,24,16:34:58,0,2
+sorrel filly,grooming,,,2021,1,24,16:35:29,0,2
+sorrel filly,eating,,,2021,1,24,16:35:59,0,2
+sorrel filly,eating,,,2021,1,24,16:36:29,0,2
+sorrel filly,eating,,,2021,1,24,16:36:59,0,2
+sorrel filly,eating,,,2021,1,24,16:37:28,0,2
+sorrel filly,eating,,,2021,1,24,16:37:58,0,2
+sorrel filly,drinking,,,2021,1,24,16:38:28,0,2
+sorrel filly,drinking,,,2021,1,24,16:38:59,0,2
+sorrel filly,alert,,,2021,1,24,16:39:28,0,2
+sorrel filly,play,blonde horse,,2021,1,24,16:40:05,0,1
