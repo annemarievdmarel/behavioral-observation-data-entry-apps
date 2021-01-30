@@ -1,0 +1,20 @@
+activename,behaviorname,passivename,modifier,Year,Month,Day,Time,duration,scansid
+sorrel filly,alert,,,2021,1,24,16:30:58,0,9
+sorrel filly,eating,,,2021,1,24,16:31:28,0,10
+sorrel filly,locomotion,,,2021,1,24,16:31:58,0,11
+sorrel filly,laying down,,,2021,1,24,16:32:28,0,12
+sorrel filly,affiliative,brown horse,,2021,1,24,16:33:01,0,13
+sorrel filly,affiliative,blonde horse,,2021,1,24,16:33:34,0,14
+blonde horse,affiliative,sorrel filly,,2021,1,24,16:34:02,0,15
+sorrel filly,alert,,,2021,1,24,16:34:29,0,16
+sorrel filly,eating,,,2021,1,24,16:34:58,0,17
+sorrel filly,grooming,,,2021,1,24,16:35:29,0,18
+sorrel filly,eating,,,2021,1,24,16:35:59,0,19
+sorrel filly,eating,,,2021,1,24,16:36:29,0,20
+sorrel filly,eating,,,2021,1,24,16:36:59,0,21
+sorrel filly,eating,,,2021,1,24,16:37:28,0,22
+sorrel filly,eating,,,2021,1,24,16:37:58,0,23
+sorrel filly,drinking,,,2021,1,24,16:38:28,0,24
+sorrel filly,drinking,,,2021,1,24,16:38:59,0,25
+sorrel filly,alert,,,2021,1,24,16:39:28,0,26
+sorrel filly,play,blonde horse,,2021,1,24,16:40:05,0,27
