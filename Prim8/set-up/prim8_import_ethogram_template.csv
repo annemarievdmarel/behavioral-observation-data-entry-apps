@@ -1,0 +1,21 @@
+ name, abbreviation, behaviortypes, hasrecipient,isstate, isalloccurrence,isscan, description
+Touch,0,PRX,TRUE,FALSE,FALSE,TRUE,Sit/stand touching (0 m) one or more individuals
+0-2 meters,2,PRX,TRUE,FALSE,FALSE,TRUE,Sit/stand within 2 meters of another individual (non-contact)
+2-6 meters,6,PRX,TRUE,FALSE,FALSE,TRUE,Sit/stand within 2-6 meters of another individual
+Groom,gm,SOC,TRUE,TRUE,TRUE,FALSE,Actively groom another individual
+Approach,ap,SOC,TRUE,FALSE,TRUE,FALSE,Approach another individual (within 2 meters) who then does not move away (within 20 seconds)
+Other Social,ots,SOC,TRUE,FALSE,FALSE,FALSE,Any other social behavior not defined in above categories
+Contact Aggression,ca,CAG,TRUE,TRUE,FALSE,FALSE,"Aggressive behaviors involving physical contact including attacking, biting, non-sexual mount, grabbing, hitting, etc."
+Non-contact Aggression,nca,NAG,FALSE,TRUE,FALSE,FALSE,"Aggressive behaviors directed towards another individual that do not involve physical contact including, chase, lunge, yawn, eye-flash"
+Displace/Supplant,dp,AGO,TRUE,FALSE,FALSE,FALSE,Move towards an individual within 2 meters that then moves away
+Other Agonistic,ota,AGO,FALSE,FALSE,FALSE,FALSE,Any other agonistic behavior not defined in the above categories
+Copulate,co,SEX,TRUE,FALSE,TRUE,FALSE,Intromission not terminating in ejaculation
+Feed/Forage,fd,SOL,FALSE,TRUE,FALSE,FALSE,"Actively searching for, manipulating, and/or ingesting a food; Differentiate type (i.e. grass,corms, tubers, fruit, leaves, invertebrates, not visible)"
+Yawn,yn,NAG,FALSE,FALSE,FALSE,FALSE,"Open mouth to full gape, usually facing perpendicular to recipient, threat usually given by adult male"
+Eye-flash,ef,NAG,FALSE,FALSE,FALSE,FALSE,"Raise eyebrows exposing pink eyelids, threat display"
+Tail Lift,tl,SUB,FALSE,FALSE,FALSE,FALSE,"Raise tail, exposing perineal region"
+Scream,sc,SUB,FALSE,FALSE,FALSE,FALSE,"Emit high pitched sound, often in response to threat; any scream vocalizations"
+Early-estrus,e1,FRC,FALSE,FALSE,FALSE,FALSE,Slight turgescence of perineal skin
+Peak-estrus,e3,FRC,FALSE,FALSE,FALSE,FALSE,Peak turgescence of perineal skin (D1 to D3)
+Deflating,e4,FRC,FALSE,FALSE,FALSE,FALSE,Deflating turgescence of perineal skin (D-day or D0)
+First trimester,p1,FRC,FALSE,FALSE,FALSE,FALSE,Months 1-2 of pregnancy
