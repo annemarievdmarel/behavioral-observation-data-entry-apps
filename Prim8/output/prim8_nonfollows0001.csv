@@ -1,0 +1,20 @@
+activename,behaviorname,passivename,Year,Month,Day,Time,behaviortypesid,partoffollow
+sorrel filly,alert,,2021,1,24,16:30:58,2,0
+sorrel filly,eating,,2021,1,24,16:31:28,2,0
+sorrel filly,locomotion,,2021,1,24,16:31:58,2,0
+sorrel filly,laying down,,2021,1,24,16:32:28,2,0
+sorrel filly,affiliative,brown horse,2021,1,24,16:33:01,1,0
+sorrel filly,affiliative,blonde horse,2021,1,24,16:33:34,1,0
+blonde horse,affiliative,sorrel filly,2021,1,24,16:34:02,1,0
+sorrel filly,alert,,2021,1,24,16:34:29,2,0
+sorrel filly,eating,,2021,1,24,16:34:58,2,0
+sorrel filly,grooming,,2021,1,24,16:35:29,2,0
+sorrel filly,eating,,2021,1,24,16:35:59,2,0
+sorrel filly,eating,,2021,1,24,16:36:29,2,0
+sorrel filly,eating,,2021,1,24,16:36:59,2,0
+sorrel filly,eating,,2021,1,24,16:37:28,2,0
+sorrel filly,eating,,2021,1,24,16:37:58,2,0
+sorrel filly,drinking,,2021,1,24,16:38:28,2,0
+sorrel filly,drinking,,2021,1,24,16:38:59,2,0
+sorrel filly,alert,,2021,1,24,16:39:28,2,0
+sorrel filly,play,blonde horse,2021,1,24,16:40:05,1,0
