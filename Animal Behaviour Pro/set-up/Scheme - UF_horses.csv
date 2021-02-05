@@ -1,0 +1,22 @@
+Coding Scheme, "UF_horses"
+Behaviour, "affiliative", YES, State, Other
+Behaviour, "aggression ", YES, State, Other
+Behaviour, "alert", YES, State, Other
+Behaviour, "drinking", YES, State, Other
+Behaviour, "eliminative", YES, State, Other
+Behaviour, "foraging/eating", YES, State, Other
+Behaviour, "grooming", YES, State, Other
+Behaviour, "investigation", YES, State, Other
+Behaviour, "laying down", YES, State, Other
+Behaviour, "locomotion", YES, State, Other
+Behaviour, "not visible", YES, State, Other
+Behaviour, "play", YES, State, Other
+Behaviour, "sexual", YES, State, Other
+Behaviour, "standing", YES, State, Other
+Behaviour, "submissive", YES, State, Other
+Subject, "ind1"
+Subject, "ind2"
+Subject, "ind3"
+Subject, "ind4"
+Subject, "none"
+Subject, "sorrel filly"
