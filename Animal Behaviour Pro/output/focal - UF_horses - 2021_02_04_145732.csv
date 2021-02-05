@@ -1,0 +1,27 @@
+Date_ymd, Time_Absolute_hms, Time_Relative_hms, Time_Relative_s, Time_Lag_s, Duration_s, Observation_Name, Log_File_Name, Actor, Behavior, Receiver, Modifier_1, Modifier_2, Modifier_3, Modifier_4, Modifier_5, Modifier_6, Other_Modifiers, Event_Type, Observer_ID, Coding_Scheme
+2021-01-21, 18:55:25, 00:00:00, -0.000, 5.400, 12.067, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "alert", "none",,,,,,,, State start, 2222, UF_horses
+2021-01-21, 18:55:37, 00:00:12, 12.067, -0.000, -0.000, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "alert", "none",,,,,,,, State stop, 2222, UF_horses
+2021-01-21, 18:55:37, 00:00:12, 12.067, 25.982, 31.015, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "foraging/eating", "none",,,,,,,, State start, 2222, UF_horses
+2021-01-21, 18:56:08, 00:00:43, 43.083, -0.000, -0.000, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "foraging/eating", "none",,,,,,,, State stop, 2222, UF_horses
+2021-01-21, 18:56:08, 00:00:43, 43.083, 34.023, 49.806, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "locomotion", "none",,,,,,,, State start, 2222, UF_horses
+2021-01-21, 18:56:58, 00:01:32, 92.888, -0.000, -0.000, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "locomotion", "none",,,,,,,, State stop, 2222, UF_horses
+2021-01-21, 18:56:58, 00:01:32, 92.888, 26.032, 33.656, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "laying down", "none",,,,,,,, State start, 2222, UF_horses
+2021-01-21, 18:57:31, 00:02:06, 126.545, -0.000, -0.000, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "laying down", "none",,,,,,,, State stop, 2222, UF_horses
+2021-01-21, 18:57:31, 00:02:06, 126.545, 31.801, 102.463, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "affiliative", "ind1",,,,,,,, State start, 2222, UF_horses
+2021-01-21, 18:59:14, 00:03:49, 229.008, -0.000, -0.000, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "affiliative", "ind1",,,,,,,, State stop, 2222, UF_horses
+2021-01-21, 18:59:14, 00:03:49, 229.008, 17.740, 26.507, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "alert", "none",,,,,,,, State start, 2222, UF_horses
+2021-01-21, 18:59:40, 00:04:15, 255.515, -0.000, -0.000, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "alert", "none",,,,,,,, State stop, 2222, UF_horses
+2021-01-21, 18:59:40, 00:04:15, 255.515, 24.915, 31.315, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "foraging/eating", "none",,,,,,,, State start, 2222, UF_horses
+2021-01-21, 19:00:12, 00:04:46, 286.830, -0.000, -0.000, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "foraging/eating", "none",,,,,,,, State stop, 2222, UF_horses
+2021-01-21, 19:00:12, 00:04:46, 286.830, 21.857, 27.665, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "grooming", "focal",,,,,,,, State start, 2222, UF_horses
+2021-01-21, 19:00:39, 00:05:14, 314.495, -0.000, -0.000, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "grooming", "focal",,,,,,,, State stop, 2222, UF_horses
+2021-01-21, 19:00:39, 00:05:14, 314.495, 38.423, 106.654, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "foraging/eating", "none",,,,,,,, State start, 2222, UF_horses
+2021-01-21, 19:02:26, 00:07:01, 421.149, -0.000, -0.000, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "foraging/eating", "none",,,,,,,, State stop, 2222, UF_horses
+2021-01-21, 19:02:26, 00:07:01, 421.149, 5.191, 45.881, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "drinking", "none",,,,,,,, State start, 2222, UF_horses
+2021-01-21, 19:03:12, 00:07:47, 467.030, -0.000, -0.000, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "drinking", "none",,,,,,,, State stop, 2222, UF_horses
+2021-01-21, 19:03:12, 00:07:47, 467.030, 26.457, 29.374, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "affiliative", "none",,,,,,,, State start, 2222, UF_horses
+2021-01-21, 19:03:41, 00:08:16, 496.404, -0.000, -0.000, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "affiliative", "none",,,,,,,, State stop, 2222, UF_horses
+2021-01-21, 19:03:41, 00:08:16, 496.404, 35.689, 43.132, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "play", "ind3",,,,,,,, State start, 2222, UF_horses
+2021-01-21, 19:04:24, 00:08:59, 539.536, -0.000, -0.000, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "play", "ind3",,,,,,,, State stop, 2222, UF_horses
+2021-01-21, 19:04:24, 00:08:59, 539.536, 41.623, 60.464, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "affiliative", "ind1",,,,,,,, State start, 2222, UF_horses
+2021-01-21, 19:05:25, 00:10:00, 600.000, -0.000, -0.000, "FocalAnimal_focal", "LogFocalAnimal_focal 20210121_185525.csv", "focal", "affiliative", "ind1",,,,,,,, State stop, 2222, UF_horses
