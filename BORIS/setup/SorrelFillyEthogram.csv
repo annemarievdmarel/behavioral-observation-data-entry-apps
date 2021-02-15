@@ -1,0 +1,22 @@
+Behavior code,Behavior type,Description,Key,Behavioral category,Excluded behaviors
+Aggression,Point event,"Aggressive posturing, threatening facial expressions, biting, kicking, fighting, high pitch
+vocalization",a,Social Behaviors,
+Affiliation,Point event,"Friendly and positive behavior to establish or reinforce social bonds, such as grooming
+another, touching another and/or accepting a touch, nuzzling, licking, or lower pitch
+vocalizations",s,Social Behaviors,
+Submissive,Point event,"Retreat away, tail tucking, lowering of body, or shying away from more aggressive animal",d,Social Behaviors,
+Play,Point event,"Activity that has no apparent use or purpose, but used for a sense of pleasure; object play,
+locomotor play, sexual play, or play fighting",f,Social Behaviors,
+Sexual,Point event,"Male or female sexual display, sniffing of genitals or urine, mounting or copulating",j,Social Behaviors,
+Alert,Point event,"Rigid stance with head, eyes and ears oriented towards object or other animal",k,Maintenance Behaviors,
+Foraging/Eating,Point event,"Can be seen in grazing and browsing in herbivores, ingestion of specially prepared diets in
+captive animals or ingestion other animals in predators",l,Maintenance Behaviors,
+Locomotion,Point event,"Movement of the whole body in a forward, backward, sideward motion (2 or more steps)",;,Maintenance Behaviors,
+investigative,Point event,"Sniffing, licking, pawing at unknown object or within an environment; may precedes playing
+with an object or eating",q,Maintenance Behaviors,
+Grooming,Point event,"Skin and coat care, can be seen as rolling, shaking, or rubbing, licking, nibbling at coat/skin",w,Maintenance Behaviors,
+Drinking,Point event,Ingestion of water,e,Maintenance Behaviors,
+Eliminative,Point event,"Defecation, urination or regurgitation of food",r,Maintenance Behaviors,
+Standing,Point event,"Non-alert, no movement, inactive; includes standing while swishing tail or stomping a foot",u,Maintenance Behaviors,
+Laying down,Point event,"Resting, inactive",i,Maintenance Behaviors,
+Not Visible,Point event,Animal not in sight of the observer,o,Maintenance Behaviors,
