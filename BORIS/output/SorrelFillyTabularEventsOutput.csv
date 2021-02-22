@@ -1,0 +1,35 @@
+Observation id,Sorrel Filly,,,,,,,
+,,,,,,,,
+Live observation,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Observation date,2021-01-23 16:22:46,,,,,,,
+,,,,,,,,
+Description,Focal sampling of sorrel filly (https://programs.ifas.ufl.edu/wild-discoveries/research-practice-materials/),,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+30.000,LIVE,600.000,NA,,Alert,Maintenance Behaviors,,POINT
+60.000,LIVE,600.000,NA,,Foraging/Eating,Maintenance Behaviors,,POINT
+90.000,LIVE,600.000,NA,,Locomotion,Maintenance Behaviors,,POINT
+120.000,LIVE,600.000,NA,,Laying down,Maintenance Behaviors,,POINT
+150.000,LIVE,600.000,NA,,Affiliation,Social Behaviors,,POINT
+180.000,LIVE,600.000,NA,,Affiliation,Social Behaviors,,POINT
+210.000,LIVE,600.000,NA,,Affiliation,Social Behaviors,,POINT
+240.000,LIVE,600.000,NA,,Alert,Maintenance Behaviors,,POINT
+270.000,LIVE,600.000,NA,,Foraging/Eating,Maintenance Behaviors,,POINT
+300.000,LIVE,600.000,NA,,Grooming,Maintenance Behaviors,,POINT
+330.000,LIVE,600.000,NA,,Foraging/Eating,Maintenance Behaviors,,POINT
+360.000,LIVE,600.000,NA,,Foraging/Eating,Maintenance Behaviors,,POINT
+390.000,LIVE,600.000,NA,,Foraging/Eating,Maintenance Behaviors,,POINT
+420.000,LIVE,600.000,NA,,Foraging/Eating,Maintenance Behaviors,,POINT
+450.000,LIVE,600.000,NA,,Foraging/Eating,Maintenance Behaviors,,POINT
+480.000,LIVE,600.000,NA,,Drinking,Maintenance Behaviors,,POINT
+510.000,LIVE,600.000,NA,,Drinking,Maintenance Behaviors,,POINT
+540.000,LIVE,600.000,NA,,Alert,Maintenance Behaviors,,POINT
+570.000,LIVE,600.000,NA,,Play,Social Behaviors,,POINT
+600.000,LIVE,600.000,NA,,Affiliation,Social Behaviors,,POINT
